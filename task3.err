@@ -1,0 +1,12 @@
+usage: fractal_lm.py [-h] [--mem MEM] [--steps STEPS] [--B B] [--T T] [--d D]
+                     [--beams BEAMS] [--taus TAUS] [--lr LR]
+                     [--eval_every EVAL_EVERY] [--threads THREADS]
+                     [--seed SEED] [--out OUT] [--data DATA] [--device DEVICE]
+                     [--graph GRAPH]
+fractal_lm.py: error: unrecognized arguments: --graph 1
+usage: fractal_lm.py [-h] [--mem MEM] [--steps STEPS] [--B B] [--T T] [--d D]
+                     [--beams BEAMS] [--taus TAUS] [--lr LR]
+                     [--eval_every EVAL_EVERY] [--threads THREADS]
+                     [--seed SEED] [--out OUT] [--data DATA] [--device DEVICE]
+                     [--graph GRAPH]
+fractal_lm.py: error: unrecognized arguments: --graph 1
